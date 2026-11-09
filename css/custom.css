@@ -1,0 +1,21 @@
+/* Custom styles. Original form-submit handler removed (RSVP form no longer present). */
+
+/* Schedule times styling */
+#rec2487446103 .tn-elem[data-elem-id="1772803062504"] .tn-atom,
+#rec2487446103 .tn-elem[data-elem-id="1772803288793000003"] .tn-atom,
+#rec2487446103 .tn-elem[data-elem-id="1782315588274000002"] .tn-atom,
+#rec2487446103 .tn-elem[data-elem-id="1778517684813000002"] .tn-atom,
+#rec2487446103 .tn-elem[data-elem-id="1772803619332000009"] .tn-atom {
+  font-size: 24px !important;
+  white-space: nowrap !important;
+}
+
+@media screen and (max-width: 639px) {
+  #rec2487446103 .tn-elem[data-elem-id="1772803062504"] .tn-atom,
+  #rec2487446103 .tn-elem[data-elem-id="1772803288793000003"] .tn-atom,
+  #rec2487446103 .tn-elem[data-elem-id="1782315588274000002"] .tn-atom,
+  #rec2487446103 .tn-elem[data-elem-id="1778517684813000002"] .tn-atom,
+  #rec2487446103 .tn-elem[data-elem-id="1772803619332000009"] .tn-atom {
+    font-size: 20px !important;
+  }
+}
