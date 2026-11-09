@@ -28,12 +28,11 @@ Edit `wedding` in `editable/wedding-data.js`:
 
 ### Schedule of Events
 Edit `schedule` array in `editable/wedding-data.js`:
-- Five timed event rows with `title` and `time`:
+- Timed event rows with `title` and `time`:
   - `Guest Arrival` (8:30 AM)
   - `Lagna Muhurtham` (9:48 AM)
   - `Mangalya Dharana` (10:30 AM)
   - `Wedding Feast` (12:30 PM)
-  - `Reception` (7:00 PM)
 
 ### Venue & Location
 Edit `venue` in `editable/wedding-data.js`:

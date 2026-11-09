@@ -10,7 +10,7 @@ window.WEDDING_DATA = {
     brideFull: "Shailaja Chakravarthi",
     groomFull: "Sreekanth Reddy",
     order: "bride-first",
-    subtitle: "Two Souls, One Destiny<br />Together Forever in Love &amp; Blessings",
+    subtitle: "॥ श्री गणेशाय नमः ॥<br /><span style='font-size:24px; font-family:Cinzel, Georgia, serif; color:#a07b33; display:block; margin-top:6px; font-weight:400; text-transform:none;'>Two Souls, One Destiny &bull; Blessed by the Divine</span>",
   },
 
   wedding: {
@@ -24,7 +24,6 @@ window.WEDDING_DATA = {
     { title: "Lagna Muhurtham", time: "9:48 AM" },
     { title: "Mangalya Dharana", time: "10:30 AM" },
     { title: "Wedding Feast", time: "12:30 PM" },
-    { title: "Reception", time: "7:00 PM" },
   ],
 
   venue: {
